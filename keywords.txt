@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For MODULATION
+#######################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Mod	KEYWORD1
+MODULATION	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+rsidToggle	KEYWORD2
+cwTx	KEYWORD2
+rttyTx	KEYWORD2
+hellTx	KEYWORD2
+wsprTx	KEYWORD2
+wsprProcess KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
