@@ -1,11 +1,11 @@
 # Arduino BF beacon library#
 F4GOH Anthony f4goh@orange.fr <br>
 
-June 2016
+June 2018
 
 Use this library freely with Arduino 1.6.5
 
-All schematics soon [here](https://hamprojects.wordpress.com/)
+All schematics [here](https://hamprojects.wordpress.com/2018/06/07/standalone-ham-modulation-generator/)
 
 ## Installation ##
 To use the MODULATION library:  

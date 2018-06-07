@@ -1,0 +1,45 @@
+Bill Of Materials
+=================
+Design:   F:\importf\radioamateur\bricoles\wspr arduino\wspr_arduino.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  21/05/08
+Modified: 10/06/16
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+1    R1                  1K                                                
+2    R3,R4               4.7k                                              
+2    R5,R6               330                                               
+1    R7                  10k                                               
+
+Capacitors
+----------
+4    C1,C3,C5,C6         100nF                                             
+1    C2                  100uF                                             
+1    C8                  10uF                                              
+4    C24-C27             1uF                                               
+
+Integrated Circuits
+-------------------
+1    U1                  ARDUINO NANO                                      
+1    U2                  ICL232                                            
+
+Transistors
+-----------
+1    Q1                  2N7002                                            
+
+Miscellaneous
+-------------
+1    J1                  ALIM                                              
+2    J2,J4               CONN-SIL4                                         
+1    J3                  PTT                                               
+2    J5,J8               JACK_STEREO                                       
+1    L3                  VK200                                             
+4    PT1-PT4             ENTRETOISE                                        
+1    PT5                 GND                                               
+1    RV1                 10K                                               
+
