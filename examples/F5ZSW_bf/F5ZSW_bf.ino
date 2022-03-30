@@ -302,6 +302,7 @@ void txingOff() {
   TIMSK0 = save_TIMSK0;
   PCICR = save_PCICR;
   Serial.println("EOT");
+  ss.begin(GPS_BAUD_RATE);
 }
 
 
